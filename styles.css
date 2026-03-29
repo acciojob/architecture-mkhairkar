@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+*{
+	width:1100px;
+	background-color: lightseagreen
+}
+/* table,tr,td{
+	border:1px solid black;
+} */
+.imageContainer img{
+	width:50%;
+	height:50%;
+}
+img{
+	width:180px;
+}
+.firstColumn{
+	width:200px;
+}
+.middleColumn{
+	width:600px;
+	text-align: center;
+	padding:1px;
+}
